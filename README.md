@@ -1,6 +1,6 @@
 # antlr4
 
-Construction of Interpreters university project at PUCPR
+Interpreter Construction university project at PUCPR
 
 Project made by :
 Guilherme Liudi Ioshii,
